@@ -55,9 +55,17 @@ textarea {
 
 .cu-header{
     width: 100% ;
-    background-color: #DAF7A6;
-    height: 150px;
+    background-color: #fff;
 }
+.navbar-toggler-icon{
+    background-color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+    text-align: center;
+    margin: auto 15px;
+    color: #000;
+}
+
 .cu-main{
     width: 100% ;
     background-color: #FFC300;
@@ -65,9 +73,10 @@ textarea {
 }
 .cu-footer{
     width: 100% ;
-    background-color: #FF5733;
+    background-color: #581845 ;
     height: 150px;
 }
+
 
 
 
