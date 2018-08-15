@@ -55,13 +55,33 @@
   <main>
 
     <!-- PORTADA -->
-    <section>
-      
+    <section class="my-5">
+      <div>
+        <h2 class="text-center mb-5">Aplicamos tecnología para mejorar vidas, para mejor nuestro país.</h2>        
+      </div>
+      <div class="">
+        <img src="img/enviropment.jpg" class="img-fluid" alt="Responsive image">
+      </div>
     </section>
 
     <!-- SOBRE EL PROYECTO -->
     <section>
-      
+      <div>
+        <h2 class="text-center mb-5">El proyecto</h2>        
+      </div>
+      <div class="py-5">
+        <div class="container">
+          <div class="row proyecto">
+              <div class="col-sm-6 text-center">
+                  <h3 class="text-uppercase my-4">Conectividad inmediata</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore atque, libero ex fugiat asperiores itaque, reprehenderit nihil amet maiores hic perferendis, doloribus aut?</p>
+              </div>
+              <div class="col-sm-6 text-center">
+                <img src="img/sobre-proyecto.jpg" class="img-fluid" alt="">
+              </div>
+          </div>
+        </div>
+      </div>
     </section>
 
 
