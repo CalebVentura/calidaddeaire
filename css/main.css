@@ -69,7 +69,7 @@ header{
 
 
 /* SOBRE EQUIPO*/
-.caracteristicas{
+.caracteristicas, .aplicaciones{
     background-color: #000;
     width: 100%;
 }
@@ -83,7 +83,22 @@ header{
     color: #fff;
 }
 
+/* APLICACIONES */
+.aplicaciones i{
+    margin-right: 25px;
+}
+.aplicaciones dd{
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #fff;
+}
 
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 1.5rem;
+}
 
 
 

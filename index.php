@@ -119,29 +119,109 @@
     </section>
 
     <!-- MIRALO EN ACCION -->
-    <section>
-      
+    <section class="my-5 text-center">
+      <div>
+        <h2 class="mb-5">Ve nuestro dispositivo en acción.</h2>        
+      </div>
+      <div class="">
+        <img src="img/enviropment.jpg" class="img-fluid" alt="Responsive image">
+      </div>
     </section>
 
     <!-- APLICACIONES -->
     <section>
-      
+      <div>
+        <h2 class="text-center mb-5">¿Qué puede hacer nuestro dispositivo?</h2>        
+      </div>
+      <div class="aplicaciones py-5">
+        <div class="container">
+          <div class="row">
+              <div class="col-sm-5">
+                  <h3 class="text-uppercase my-4  text-center">Aplicaciones</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem minima deserunt, molestias harum! Neque, facere iure dicta possimus cum nemo quia, itaque velit suscipit, veniam perferendis iste doloremque illo fugiat. Voluptates, officiis, accusantium.</p>
+                  <dl>
+                      <dd><i class="fas fa-home"></i>Smart Home</dd>
+                      <dd><i class="fas fa-phone"></i>Automotive</dd>
+                      <dd><i class="fas fa-tv"></i>Multimedia</dd>
+                      <dd><i class="fas fa-wifi"></i>Conectividad</dd>
+                  </dl>              
+                </div>
+              <div class="col-sm-7 text-center">
+                <img src="img/sobre-proyecto.jpg" class="img-fluid" alt="">
+              </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="container py-3">
+        <div class="row">
+          <div class="col-sm-2">
+            <img src="img/arduino.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-sm-2">
+            <img src="img/github.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-sm-2">
+            <img src="img/maqetado.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-sm-2">
+            <img src="img/php.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-sm-2">
+            <img src="img/slack.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-sm-2">
+            <img src="img/mysql.png" class="img-fluid" alt="">
+          </div>
+        </div>        
+      </div>
     </section>
 
     <!-- NUESTROS PRODUCTOS -->
-    <section>
-      
+    <section class="text-center my-5">
+      <div>
+        <h2 class=" mb-5">Nuestros Dispositivos.</h2>        
+      </div>
+      <div class="container">
+        <h2 class="">Tecnología facil de usar</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum recusandae sed, vero doloremque eos sit, cumque mollitia voluptate quaerat ratione iure minus delectus corrupti. Adipisci vitae ab inventore nisi officia soluta aperiam doloribus et aspernatur.</p>
+      </div>
+      <div class="container">
+        <img src="img/dispositivo.png" class="img-fluid" alt="Responsive image">
+      </div>
     </section>
 
     <!-- NOSOTROS -->
     <section>
-      
+      <div>
+        <h2 class="text-center mb-5">¿Qué puede hacer nuestro dispositivo?</h2>        
+      </div>
+      <div class="py-5">
+        <div class="container">
+          <div class="row">
+              <div class="col-sm-5">
+                  <h3 class="text-uppercase my-4  text-center">Aplicaciones</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem minima deserunt, molestias harum! Neque, facere iure dicta possimus cum nemo quia, itaque velit suscipit, veniam perferendis iste doloremque illo fugiat. Voluptates, officiis, accusantium.</p>
+                  <dl>
+                      <dd><i class="fas fa-home"></i>Smart Home</dd>
+                      <dd><i class="fas fa-phone"></i>Automotive</dd>
+                      <dd><i class="fas fa-tv"></i>Multimedia</dd>
+                      <dd><i class="fas fa-wifi"></i>Conectividad</dd>
+                  </dl>              
+                </div>
+              <div class="col-sm-7 text-center">
+                <img src="img/sobre-proyecto.jpg" class="img-fluid" alt="">
+              </div>
+          </div>
+        </div>
+      </div>
     </section>
-
   </main>
 
-  <footer>
-    
+  <footer class="">
+    <div class="container text-center py-3">
+      <p> (c) Derechos reservados IoT - Comsoc UNI</p>
+    </div>
   </footer>
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>
